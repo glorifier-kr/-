@@ -1,0 +1,6 @@
+{
+  "name": "눈 내리는 크리스마스 마을 3D",
+  "description": "하얀 토끼와 함께 눈 내리는 밤의 크리스마스 마을을 탐험하고, 2인 리프트를 타고 마을 전경을 감상하는 Three.js 3D 웹 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
